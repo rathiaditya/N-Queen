@@ -2,4 +2,4 @@
 - Steepest Ascent
 - Steepest Ascent with side ways moves
 - Random Restart 
-- Random Restart with Side ways moves
+- Random Restart with side ways moves
